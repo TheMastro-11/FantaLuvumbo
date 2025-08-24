@@ -8,6 +8,11 @@ Il presente documento delinea le linee guida e regole principali del Fantacalcio
 -   C.M. Biscaro
 -   Lorenzo
 -   M. Piras (TheMastro)
+-   Flavio
+-   Nicola
+
+
+L'asta iniziale si terrà il 7 settembre 2025.
 
 ## Introduzione (Art. 1.x)
 
@@ -17,7 +22,7 @@ Il FantaLuvumbo ha l'obiettivo di offrire una esperienza piacevole ed emozionant
 
 ### Partecipanti e modalità (Art. 1.2)
 
-Il torneo è composto da 8 allenatori e seguirá le [linee guida]() della modalità _mantra_, con eventuali modifiche e variazioni indicate negli articoli seguenti.
+Il torneo è composto da 8 allenatori e seguirá le [linee guida](https://www.fantacalcio.it/regolamenti/leghe-private) della modalità *classica*, con eventuali modifiche e variazioni indicate negli articoli seguenti.
 I gironi saranno (as)simmetrici.
 
 ## Gestione Imprevisti (Art. 3.x)
@@ -29,3 +34,9 @@ Questa sezione definisce i comportamenti da adottare nel caso in cui si verifich
 ### Infortunio medio | 3-6 mesi| (Art. 3.2)
 
 ### Infortunio lungo o stagione finita | > 6 mesi| (Art. 3.3)
+
+### Vendita all'estero durante mercato invernale (Art 3.4)
+Nel caso in cui un giocatore venga ceduto al di fuori della Lega Serie il suo FantaAllenatore riceverà un **rimborso completo** per l'acquisto sostenuto durante l'asta iniziale
+
+### Partita Rinviata
+In caso di rinvio di una partita durante un turno di Serie A si procede a  sospendere la giornata di FantaCalcio corrispondente fin quando l'incontro non verrà regolarmente giocato.
