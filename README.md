@@ -35,13 +35,21 @@ Il modificatore è attivo con i seguenti punteggi:
 | >= 6.5 < 6.75 | 1.5 |
 | >= 6.75 < 7 | 2 |
 | >= 7 | 2.5 |
- 
+
+#### Quota di partecipazione e ripartizione premi
+La quota di partecipazione è fissata per 20€ (venti euro) cada uno. 
+Il premio sarà ripartito tra i primi tre classificati secondo questa logica:
+| Posizione | Quota |
+| :-: | :-: |
+| Primo | ? |
+| Secondo | ? |
+| Terzo | ? | 
 
 ## Mercato
 Il mercato **completo** (acquisti, cessioni, svincoli e scambi) seguirà le stesse date del mercato *reale*.
 
 ### Scambi
-*In fase di definizione*
+Sempre Aperti.
 
 ### Svincoli
 Avverranno anche durante la pausa nazionali.
