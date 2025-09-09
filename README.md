@@ -5,7 +5,6 @@ Il presente documento delinea le linee guida e regole principali del Fantacalcio
 -   A. Sunch
 -   D. Lai
 -   Valerio (Er Capro)
--   C.M. Biscaro
 -   Lorenzo
 -   M. Piras (TheMastro)
 -   Flavio
@@ -23,20 +22,45 @@ Il FantaLuvumbo ha l'obiettivo di offrire una esperienza piacevole ed emozionant
 ### Partecipanti e modalità (Art. 1.2)
 
 Il torneo è composto da 8 allenatori e seguirá le [linee guida](https://www.fantacalcio.it/regolamenti/leghe-private) della modalità *classica*, con eventuali modifiche e variazioni indicate negli articoli seguenti.
-I gironi saranno (as)simmetrici.
+Il calendario sarà assimetrico .
 
-## Gestione Imprevisti (Art. 3.x)
+#### Modificatore Difesa
+Il modificatore è attivo con i seguenti punteggi:
+
+| media | bonus |
+| :-: | :-: |
+| < 6 | 0 |
+| \>= 6 | 6.25 | 0.5 |
+| >= 6.25 < 6.5> | 1 |
+| >= 6.5 < 6.75 | 1.5 |
+| >= 6.75 < 7 | 2 |
+| >= 7 | 2.5 |
+ 
+
+## Mercato
+Il mercato **completo** (acquisti, cessioni, svincoli e scambi) seguirà le stesse date del mercato *reale*.
+
+### Scambi
+*In fase di definizione*
+
+### Svincoli
+Avverranno anche durante la pausa nazionali.
+
+## Gestione Imprevisti (Art. 4.x)
 
 Questa sezione definisce i comportamenti da adottare nel caso in cui si verifichino situazioni impreviste durante il regolare andamento del gioco.
 
-### Infortunio breve | < 3 mesi| (Art. 3.1)
+### Infortunio breve | < 3 mesi| (Art. 4.1)
+Invariato
 
-### Infortunio medio | 3-6 mesi| (Art. 3.2)
+### Infortunio medio | 3-6 mesi| (Art. 4.2)
+Invariato
 
-### Infortunio lungo o stagione finita | > 6 mesi| (Art. 3.3)
+### Infortunio lungo o stagione finita | > 6 mesi| (Art. 4.3)
+Invariato
 
-### Vendita all'estero durante mercato invernale (Art 3.4)
+### Vendita all'estero durante mercato invernale (Art 4.4)
 Nel caso in cui un giocatore venga ceduto al di fuori della Lega Serie il suo FantaAllenatore riceverà un **rimborso completo** per l'acquisto sostenuto durante l'asta iniziale
 
-### Partita Rinviata
+### Partita Rinviata (Art 3.5)
 In caso di rinvio di una partita durante un turno di Serie A si procede a  sospendere la giornata di FantaCalcio corrispondente fin quando l'incontro non verrà regolarmente giocato.
