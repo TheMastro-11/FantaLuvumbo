@@ -24,6 +24,17 @@ Il FantaLuvumbo ha l'obiettivo di offrire una esperienza piacevole ed emozionant
 Il torneo è composto da 8 allenatori e seguirá le [linee guida](https://www.fantacalcio.it/regolamenti/leghe-private) della modalità *classica*, con eventuali modifiche e variazioni indicate negli articoli seguenti.
 Il calendario sarà assimetrico .
 
+
+#### Calcolo Partita (soglie gol)
+| punti | gol |
+| :-: | :-: |
+| 66 | 1 | 
+| 71 | 2 |
+| 76 | 3 |
+| 81 | 4 |
+| 86 | 5 | 
+| +5 | +1 |
+
 #### Modificatore Difesa
 Il modificatore è attivo con i seguenti punteggi:
 
